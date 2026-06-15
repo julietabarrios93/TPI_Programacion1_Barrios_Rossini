@@ -11,6 +11,10 @@ El proyecto consiste en una aplicación de consola desarrollada en Python que pe
 - Nair Julieta Barrios
 - Máximo Rossini
 
+## Link Video Presentación
+
+https://www.youtube.com/watch?v=Bv28cu-r4Cw
+
 ## Objetivo del proyecto
 
 El objetivo del sistema es aplicar los contenidos vistos durante la materia Programación I, utilizando estructuras de datos, funciones, archivos CSV, validaciones, manejo de errores y modularización del código.
@@ -50,6 +54,9 @@ El sistema calcula y muestra:
 
 ```text
 tpi_paises/
+├── graphs
+    └── diagrama_flujo.pdf
+├── tpi_barrios_rossini.pdf
 ├── main.py
 ├── archivo_paises.py
 ├── gestion_paises.py
